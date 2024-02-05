@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kloak/Desktop/UE5_Build/Content/FirstPerson/Blueprints/HUD.uasset",
+				"C:/Users/kloak/Desktop/UE5_Build/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/kloak/Documents/Unreal Projects/RayCast/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
 				"C:/Users/kloak/Documents/Unreal Projects/RayCast/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/kloak/Documents/Unreal Projects/RayCast/Content/FirstPerson/Blueprints/BP_CUBE.uasset",
